@@ -1,6 +1,6 @@
 # Screw It! Just Use Google
 
-## WordPress + Google.com + "site:" = AWESOME!
+### WordPress + Google.com + "site:" = AWESOME!
 
 ![screw-it-just-use-google](https://cloud.githubusercontent.com/assets/867430/12316230/6a331a86-ba52-11e5-8dbd-be57bdd60f8d.gif)
 
